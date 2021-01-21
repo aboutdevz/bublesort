@@ -45,7 +45,7 @@ std::vector<int> display1()
     std::vector<int> numbertosort;
 
     std::cout << "Program Mengurutkan Data" << std::endl;
-    std::cout << "Dengan Menggunakkan Buble Sort" << std::endl;
+    std::cout << "Dengan Menggunakkan Bubble Sort" << std::endl;
 
     int a = 1;
     while (a<=10)
